@@ -1,5 +1,5 @@
 # bioSite
-Repository for CSD-340 project.
+
 
 <!DOCTYPE html>
 <head>
