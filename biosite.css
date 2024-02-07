@@ -1,0 +1,54 @@
+header {
+    background-color:rgba(24, 64, 134, 0.457);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    font-family: Raleway;
+    font-weight: 150;  
+}
+
+
+
+#container {
+    display: flex; 
+    justify-content: space-between; /* Add space between h3 elements */
+    margin-top: 20px;
+    background-color:rgba(24, 64, 134, 0.457);
+}
+
+h3 {
+    padding: 10px;
+    margin: 5px; 
+    font-family: Raleway;
+    font-weight: 250;
+}
+
+h2 {
+    font-family: Raleway;
+    font-weight: 250;
+}
+
+ul li a {
+    font-family: Raleway;
+    font-weight: 230; 
+}
+
+h4 {
+    font-family: Raleway;
+    font-weight: 190;
+}
+
+h4 ul li a {
+   font-family: Raleway;
+    font-weight: 190; 
+
+}
+
+#image img {
+    float: right;
+    image-rendering: inherit;
+}
+

@@ -1,0 +1,30 @@
+#image-gallery {
+   border-style: solid;
+   margin-top: 7%;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   
+}
+
+#image-gallery img {
+    image-rendering: initial;
+}
+
+#image-gallery img {
+    image-rendering: initial; 
+}
+
+
+h1 {
+    background-color:rgba(24, 64, 134, 0.457);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: Raleway;
+    font-weight: 150; 
+}
+
+p {
+    font-family: Raleway;
+    font-weight: 100; 
+}

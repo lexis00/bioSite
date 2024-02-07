@@ -1,0 +1,25 @@
+#image-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 10px; 
+}
+
+#image-gallery img {
+    width: 80%;
+    height: 85%;
+    object-fit: cover; 
+}
+
+figcaption {
+    font-style: italic;
+    font-family: Raleway;
+    font-weight: 100;
+}
+
+ #image-gallery img {
+    image-rendering: initial; 
+}
+
+
+
